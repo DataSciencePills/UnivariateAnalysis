@@ -1,0 +1,48 @@
+/* sweet-brown: #ac3931ff;
+# teal-blue: #537d8dff;
+# maximum-yellow-red: #ffbc42ff;
+$dark-byzantium: #482c3dff;
+$magic-mint: #b2edc5ff;
+$rich-black-fogra-39: #0a0908ff;
+$languid-lavender: #e0d3deff; */ 
+
+h1{
+  color: #537d8dff;
+  z-index: 30;
+}
+
+h2{
+  color: #537d8dff;
+  text-decoration: bold;
+  size: 16;
+}
+
+h3{
+  color: #0a0908ff;
+  text-decoration: bold;
+  size: 13;
+}
+
+p{
+  size: 12;
+}
+
+.crop{
+  margin: -150px 0 0 0;
+  overflow: hidden;
+  opacity: 0.5;
+  z-index: 20;
+}
+
+body {
+  background-image: url('../Logo/RPills3.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 0.94;
+  font-size: 12pt;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 0.25em;
+}
